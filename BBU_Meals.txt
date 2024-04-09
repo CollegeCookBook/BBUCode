@@ -1,0 +1,97 @@
+Breakfast
+---------
+**15 meals**
+
+Plain oatmeal: Oatmeal made with just water and oats.
+Toast with butter: Simple toast with butter spread.
+Banana: Just grab a banana for a quick and easy breakfast.
+Yogurt with honey: Plain yogurt with a drizzle of honey.
+Boiled eggs: Quick and protein-rich boiled eggs.
+Peanut butter toast: Toast with a spread of peanut butter.
+Cereal with milk: A bowl of cereal with milk.
+Granola bar: A packaged granola bar for a grab-and-go option.
+Fruit salad: Chopped fruits mixed together.
+Smoothie: Blend together fruits, yogurt, and a liquid base like water or milk.
+Bagel with cream cheese: Simple bagel with cream cheese spread.
+Hard-boiled eggs and toast: Sliced hard-boiled eggs with toast.
+Cottage cheese: A serving of cottage cheese, plain or with fruit.
+Rice cakes with jam: Rice cakes topped with your favorite jam or jelly.
+Canned beans: Warm up a can of beans for a protein-packed breakfast.
+
+Lunch
+------
+
+**15 meals**
+
+Peanut butter and jelly sandwich: Classic and easy to make with just bread, peanut butter, and jelly.
+Ramen noodles: Quick-cooking noodles in broth, often available for a low price.
+Tuna salad sandwich: Canned tuna mixed with mayonnaise or Greek yogurt, served on bread.
+Grilled cheese sandwich: Melted cheese between slices of bread, toasted until golden brown.
+Bean and cheese burrito: Canned beans and cheese wrapped in a tortilla.
+Instant noodles: Various flavors of instant noodles, simply prepared with boiling water.
+Egg salad sandwich: Hard-boiled eggs mashed with mayonnaise, mustard, and seasoning, served on bread.
+Leftover pasta: Reheat leftover pasta with marinara sauce or olive oil and herbs.
+Vegetable soup: Canned or homemade vegetable soup, heated and served with bread or crackers.
+Quesadilla: Tortilla filled with cheese and optionally other ingredients like beans, vegetables, or leftover meat, then grilled until crispy.
+Hummus wrap: Spread hummus on a tortilla, add vegetables like lettuce, cucumber, and tomato, then wrap it up.
+Chicken salad sandwich: Canned chicken mixed with mayonnaise, celery, and seasoning, served on bread.
+Instant rice with canned beans: Heat up instant rice and mix it with canned beans for a quick and filling meal.
+BLT sandwich: Bacon, lettuce, and tomato between slices of bread, with mayonnaise.
+Tofu stir-fry: Cubed tofu stir-fried with frozen vegetables and soy sauce, served over rice or noodles.
+
+Dinner
+-------
+
+**15 meals**
+
+Pasta with marinara sauce: Boil pasta and top it with store-bought or homemade marinara sauce.
+Rice and beans: Cook rice and canned beans together for a protein-rich meal.
+Scrambled eggs: Quick and easy to make, serve with toast or mixed vegetables.
+Grilled cheese and tomato soup: Serve grilled cheese sandwiches with canned tomato soup.
+Stir-fried vegetables with tofu: Sauté frozen or fresh vegetables with cubed tofu and soy sauce.
+Quesadillas: Fill tortillas with cheese and optionally other ingredients like beans or vegetables, then grill until crispy.
+Baked potato with toppings: Microwave or bake potatoes and serve with toppings like cheese, sour cream, and chives.
+Vegetable stir-fry with rice: Sauté mixed vegetables with soy sauce and serve over cooked rice.
+Tuna pasta salad: Mix canned tuna with cooked pasta, mayonnaise, and chopped vegetables.
+Bean burritos: Wrap canned beans, cheese, and salsa in tortillas for a quick and filling meal.
+Omelette with toast: Whisk eggs, cook in a skillet with fillings like cheese and vegetables, and serve with toast.
+Frozen pizza: Bake a store-bought frozen pizza for an easy dinner option.
+Couscous with vegetables: Cook couscous and mix with sautéed vegetables and herbs.
+Vegetable soup with bread: Heat up canned or homemade vegetable soup and serve with crusty bread.
+Peanut butter and banana sandwich: Spread peanut butter on bread, add sliced bananas, and enjoy as a quick and satisfying meal.
+
+Snacks/Deserts
+---------------
+
+**14 meals**
+
+**7 snacks**
+Popcorn: Popcorn kernels can be popped on the stovetop or in the microwave, then seasoned with salt, butter, or your favorite seasonings.
+
+Carrot and Celery Sticks with Hummus: Simply chop up some carrots and celery into sticks and dip them into hummus for a nutritious and filling snack.
+
+Apple Slices with Peanut Butter: Slice up an apple and spread peanut butter on each slice for a delicious and satisfying snack that combines sweetness with protein.
+
+Yogurt with Granola: Spoon some yogurt into a bowl and sprinkle granola on top for a quick and easy snack that's both creamy and crunchy.
+
+Cheese and Crackers: Pair slices of cheese with crackers for a classic snack that provides a good balance of protein and carbohydrates.
+
+Trail Mix: Combine nuts, dried fruits, and a few chocolate chips or M&M's for a customizable snack that's perfect for on-the-go.
+
+Hard-boiled Eggs: Boil a batch of eggs at the beginning of the week and keep them in the fridge for a convenient and protein-rich snack option.
+
+**7 Deserts**
+Banana "Ice Cream": Peel and slice ripe bananas, then freeze the slices. Once frozen, blend them until creamy for a delicious and healthy "ice cream" alternative.
+
+Rice Pudding: Cook rice in milk with sugar and your choice of flavorings like cinnamon or vanilla extract for a comforting and creamy dessert.
+
+Chocolate Mug Cake: Mix together flour, sugar, cocoa powder, milk, and a little oil in a mug, then microwave for a quick and indulgent single-serving cake.
+
+Fruit Salad: Chop up a variety of your favorite fruits and mix them together for a refreshing and naturally sweet dessert option.
+
+Yogurt Parfait: Layer yogurt with granola and fruit in a glass or bowl for a simple and satisfying dessert that's also packed with protein.
+
+Baked Apples: Core apples and fill them with a mixture of brown sugar, cinnamon, and butter, then bake until tender for a warm and comforting treat.
+
+Peanut Butter Banana Bites: Slice bananas, spread peanut butter between the slices to make little sandwiches, then freeze for a quick and satisfying sweet snack.
+
