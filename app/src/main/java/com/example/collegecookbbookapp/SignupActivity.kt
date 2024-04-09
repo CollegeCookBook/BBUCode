@@ -1,13 +1,13 @@
 package com.example.collegecookbbookapp
 
-import android.widget.*
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
+import android.widget.Button
+import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 
-
-
-class SignupActivity : AppCompatActivity() {
+class SignUpActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
@@ -18,6 +18,7 @@ class SignupActivity : AppCompatActivity() {
         val passwordsignupEditText = findViewById<EditText>(R.id.passwordsignupEditText)
 
         signupButton.setOnClickListener {
+            Log.d("Navigation", "Sign Up button Clicked") // Check if this log is printed
             // Dummy signup logic (replace with your actual login logic)
             val username = usernamesignupEditText.text.toString()
             val email = emailsignupEditText.text.toString()
@@ -28,9 +29,7 @@ class SignupActivity : AppCompatActivity() {
     }
 
     private fun navigateToHome() {
-        val intent = Intent(this, HomepageActivity::class.java)
-        startActivity(intent)
-        finish()
+        val intent2 = Intent(this, HomepageActivity::class.java)
+        startActivity(intent2)
     }
 }
-
