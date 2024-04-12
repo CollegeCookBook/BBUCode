@@ -9,20 +9,23 @@
         android:id="@+id/usernamesignupEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Username" />
+        android:hint="Username"
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/emailsignupEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Email" />
+        android:hint="Email"
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/passwordsignupEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Password"
-        android:inputType="textPassword" />
+        android:inputType="textPassword"
+        android:minHeight="48dp" />
 
     <Button
         android:id="@+id/signupButton"
