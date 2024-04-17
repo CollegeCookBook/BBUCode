@@ -39,11 +39,19 @@
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:paddingTop="8dp"/>
-
-    <TextView
-        android:id="@+id/instructions"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="18sp"
-        android:paddingTop="8dp"/>
+        android:layout_height="200dp"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:id="@+id/instructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:paddingTop="8dp"
+            android:scrollbars="vertical"/>
+
+    </ScrollView>
+
 </LinearLayout>
