@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         if (loginTracker.getLoggedIn() == true) {
             setContentView(R.layout.activity_homepage)
             val fragmentManager: FragmentManager = supportFragmentManager
-            val recipeFragment: Fragment = RecipeFragment()
+            val recipeFragment: Fragment = FoodFragment()
             val cookwareFragment: Fragment = ApplianceFragment()
 
             val navigationBar = findViewById<BottomNavigationView>(R.id.btmNavBar)
