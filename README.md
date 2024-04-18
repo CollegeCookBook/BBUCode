@@ -2,7 +2,10 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 Category: Food Recipes Mobile: Android/IOS Story: Empowering college students to cook nutritious meals despite limited resources Market: College Students Habit: Encouraging regular use through personalized recipe suggestions and cookware recommendations Scope: Offering a diverse selection of recipes and practical kitchen tips within a user-friendly interface Product Spec User Features Required Features Recipe search by ingredients Categorized recipies (Breakfast, Lunch, Dinner, etc.) Cookware search Descriptions Screen Archetypes Home Screen: Option between cookware & food sections Browser: Browse and search for recipes by category or ingredient Detail: Detailed instructions, ingredients,cookware Shopping List: View and manage ingredients needed for selected recipes User Profile: Personalized settings and saved recipes Navigation Home Screen Recipes List Shopping List User Profile Flow Navigation (Screen to Screen)
 
-[list first screen here] [list screen navigation here] … [list second screen here] [list screen navigation here] … Wireframes [Add picture of your hand sketched wireframes in this section]
+[list first screen here] [list screen navigation here] … [list second screen here] [list screen navigation here] … 
+
+Wireframes [iScreen Shoter - Safari - 240411112650.pdf](https://github.com/CollegeCookBook/BBUCode/files/15026763/iScreen.Shoter.-.Safari.-.240411112650.pdf)
+
 
 [BONUS] Digital Wireframes & Mockups [BONUS] Interactive Prototype
 
