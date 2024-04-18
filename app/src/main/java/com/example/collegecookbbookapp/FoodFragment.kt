@@ -16,6 +16,7 @@ class FoodFragment : Fragment() {
     private lateinit var recyclerView: RecyclerView
     private lateinit var adapter: FoodListAdapter
     private lateinit var categorySpinner: Spinner
+
     private val categories = listOf("All", "Breakfast", "Lunch", "Dinner", "Snack/Dessert")
     private val foodList = FoodData.foodList
 
@@ -50,13 +51,13 @@ class FoodFragment : Fragment() {
         }
 
         // Initialize FoodListAdapter
-        adapter = FoodListAdapter(foodList, parentFragmentManager) { foodItem: FoodItem ->
+        adapter = FoodListAdapter(foodList, parentFragmentManager) { foodItem ->
             navigateToFoodDetail(foodItem)
         }
-
         recyclerView.layoutManager = LinearLayoutManager(context)
         recyclerView.adapter = adapter
     }
+
 
     private fun navigateToFoodDetail(foodItem: FoodItem) {
         val bundle = Bundle()

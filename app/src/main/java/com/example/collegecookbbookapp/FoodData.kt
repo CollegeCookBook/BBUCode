@@ -77,6 +77,39 @@ object FoodData {
             listOf("Oven", "Mixing Bowl"),
             "Instructions for making chocolate cake..."
         ),
+        FoodItem(
+            "3-ingredient Peanut Butter Cookies",
+            R.drawable.explore,  // Replace with the actual image resource ID
+            "Snack/Dessert",
+            listOf("1 cup peanut butter", "1 cup white sugar", "1 large egg"),
+            listOf("Optional: chocolate chips, chopped nuts"),
+            listOf("Convection Oven", "Electric mixer", "Baking sheet", "Wire rack"),
+            """
+    **Ingredients:**
+    - 1 cup peanut butter
+    - 1 cup white sugar
+    - 1 large egg
+
+    **Instructions:**
+
+    **Step 1:**
+    - Preheat the oven to 350 degrees F (175 degrees C).
+
+    **Step 2:**
+    - Mix peanut butter, sugar, and egg together in a bowl using an electric mixer until smooth and creamy.
+
+    **Step 3:**
+    - Roll mixture into 1-inch balls and place 1 inch apart on an ungreased baking sheet.
+
+    **Step 4:**
+    - Flatten each with a fork, making a criss-cross pattern.
+
+    **Step 5:**
+    - Bake in the preheated oven until edges are firm, about 10 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely.
+
+    Enjoy your 3-ingredient Peanut Butter Cookies!
+    """.trimIndent()
+        ),
         // Add more FoodItem objects as needed
     )
 }
