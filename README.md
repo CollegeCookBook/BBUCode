@@ -4,7 +4,9 @@ Category: Food Recipes Mobile: Android/IOS Story: Empowering college students to
 
 [list first screen here] [list screen navigation here] … [list second screen here] [list screen navigation here] … 
 
-Wireframes [iScreen Shoter - Safari - 240411112650.pdf](https://github.com/CollegeCookBook/BBUCode/files/15026763/iScreen.Shoter.-.Safari.-.240411112650.pdf)
+Wireframes [iScreen Shoter - Safari - 240411112650.pdf]
+![screenshot](https://github.com/CollegeCookBook/BBUCode/assets/131037551/78a18a9f-32e8-4aec-ad18-96197b54f5e0)
+
 
 
 [BONUS] Digital Wireframes & Mockups [BONUS] Interactive Prototype
