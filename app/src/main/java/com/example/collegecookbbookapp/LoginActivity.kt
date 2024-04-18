@@ -27,7 +27,7 @@ class LoginActivity : AppCompatActivity() {
             // Dummy login logic (replace with your actual login logic)
             var username = findViewById<EditText>(R.id.usernameEditText).text.toString()
             var password = findViewById<EditText>(R.id.passwordEditText).text.toString()
-            if (username == "dummy" && password == "password") {
+            if (username == "admin" && password == "") {
                 loginTracker.setloggedIn(true)
                 navigateToHome()
             }
