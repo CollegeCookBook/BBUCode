@@ -28,6 +28,10 @@ class FoodListAdapter(
         return FoodViewHolder(itemView)
     }
 
+    fun updateList(newList: List<FoodItem>) {
+        filteredList = newList
+        notifyDataSetChanged()
+    }
     override fun onBindViewHolder(holder: FoodViewHolder, position: Int) {
         val currentItem = filteredList[position]
         holder.foodImage.setImageResource(currentItem.image)
