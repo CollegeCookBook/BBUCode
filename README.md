@@ -2,16 +2,24 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 Category: Food Recipes Mobile: Android/IOS Story: Empowering college students to cook nutritious meals despite limited resources Market: College Students Habit: Encouraging regular use through personalized recipe suggestions and cookware recommendations Scope: Offering a diverse selection of recipes and practical kitchen tips within a user-friendly interface Product Spec User Features Required Features Recipe search by ingredients Categorized recipies (Breakfast, Lunch, Dinner, etc.) Cookware search Descriptions Screen Archetypes Home Screen: Option between cookware & food sections Browser: Browse and search for recipes by category or ingredient Detail: Detailed instructions, ingredients,cookware Shopping List: View and manage ingredients needed for selected recipes User Profile: Personalized settings and saved recipes Navigation Home Screen Recipes List Shopping List User Profile Flow Navigation (Screen to Screen)
 
-[list first screen here] [list screen navigation here] … [list second screen here] [list screen navigation here] … Wireframes [Add picture of your hand sketched wireframes in this section]
+[list first screen here] [list screen navigation here] … [list second screen here] [list screen navigation here] … 
+
+Wireframes [iScreen Shoter - Safari - 240411112650.pdf]
+![screen 2](https://github.com/CollegeCookBook/BBUCode/assets/131037551/1cf3b7c6-2f06-439d-ba4b-077a1a2f5d2f)
+
+
+
 
 [BONUS] Digital Wireframes & Mockups [BONUS] Interactive Prototype
 
-Milestone 2 - Build Sprint 1 (Unit 8) GitHub Project board [Add screenshot of your Project Board with three milestones visible in this section]
+Milestone 2 - Build Sprint 1 (Unit 8) GitHub Project board ![image](https://github.com/CollegeCookBook/BBUCode/assets/131283081/3cb2baad-299d-4d1e-b329-66ecb08eaa93)
 
-Issue cards [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] [Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.] Issues worked on this sprint List the issues you completed this sprint [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
 
-Milestone 3 - Build Sprint 2 (Unit 9) GitHub Project board [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.]
 
-Completed user stories List the completed user stories from this unit List any pending user stories / any user stories you decided to cut from the original requirements [Add video/gif of your current application that shows build progress]
+Milestone 3 - ![image](https://github.com/CollegeCookBook/BBUCode/assets/131283081/fdb71794-726c-4d5c-9fbd-afc9fd628939)
+
+
+Completed user stories List the completed user stories from this unit List any pending user stories / any user stories you decided to cut from the original requirements![BBUGif1](https://github.com/CollegeCookBook/BBUCode/assets/131283081/17d1ff83-286f-4ab3-956a-a0f96a2260d6)
+
 
 App Demo Video Embed the YouTube/Vimeo link of your Completed Demo Day prep video Figma Wireframe ( https://www.figma.com/file/U7FyIVgqdvzUYCexPRz68J/Untitled?type=design&node-id=0-1&mode=design&t=UHlJeUIC5406CKFP-0) The repo includes an index.html file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
