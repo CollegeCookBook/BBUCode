@@ -16,12 +16,14 @@ class FoodListAdapter(
 ) : RecyclerView.Adapter<FoodListAdapter.FoodViewHolder>() {
 
     private var filteredList: List<FoodItem> = foodList
+    private var budget: Double? = null
 
     inner class FoodViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val foodImage: ImageView = itemView.findViewById(R.id.food_image)
         val foodName: TextView = itemView.findViewById(R.id.food_name)
+        val foodPrice: TextView = itemView.findViewById(R.id.food_price)
+        val foodIngredients: TextView = itemView.findViewById(R.id.food_ingredients) // Add this line
     }
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): FoodViewHolder {
         val itemView = LayoutInflater.from(parent.context)
             .inflate(R.layout.item_food, parent, false)
@@ -30,12 +32,22 @@ class FoodListAdapter(
 
     fun updateList(newList: List<FoodItem>) {
         filteredList = newList
+        applyBudgetFilter()
         notifyDataSetChanged()
     }
+
     override fun onBindViewHolder(holder: FoodViewHolder, position: Int) {
         val currentItem = filteredList[position]
         holder.foodImage.setImageResource(currentItem.image)
         holder.foodName.text = currentItem.name
+
+        // Calculate and display estimated price
+        val estimatedPrice = currentItem.calculateEstimatedPrice()
+        holder.foodPrice.text = String.format("$%.2f", estimatedPrice)
+
+        // Display ingredients
+        holder.foodIngredients.text = currentItem.mainIngredients.joinToString(", ")
+
         holder.itemView.setOnClickListener {
             onItemClick(currentItem)
         }
@@ -49,7 +61,24 @@ class FoodListAdapter(
         } else {
             filteredList = foodList.filter { it.category == category }
         }
+        applyBudgetFilter()
         notifyDataSetChanged()
+    }
+
+    fun setBudget(budget: Double?) {
+        this.budget = budget
+        applyBudgetFilter()
+        notifyDataSetChanged()
+    }
+
+    private fun applyBudgetFilter() {
+        budget?.let { budgetValue ->
+            filteredList = if (budgetValue >= 50) {
+                foodList.filter { it.calculateEstimatedPrice() >= budgetValue }
+            } else {
+                foodList.filter { it.calculateEstimatedPrice() <= budgetValue }
+            }
+        }
     }
 
     fun navigateToFoodDetail(foodItem: FoodItem? = null) {
@@ -65,4 +94,3 @@ class FoodListAdapter(
             .commit()
     }
 }
-

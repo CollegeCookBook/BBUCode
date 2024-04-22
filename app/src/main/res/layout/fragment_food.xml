@@ -15,12 +15,34 @@
         android:maxLines="1"
         android:minHeight="48dp" />
 
+    <!-- Budget Slider -->
+    <SeekBar
+        android:id="@+id/budget_slider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/search_edit_text"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="16dp"
+        android:max="100"
+        android:progress="50" />
+
+    <!-- Budget Value TextView -->
+    <TextView
+        android:id="@+id/budget_value_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/budget_slider"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="$$$"
+        android:textSize="16sp" />
+
     <Spinner
         android:id="@+id/category_spinner"
         android:layout_width="129dp"
         android:layout_height="48dp"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="69dp" />
+        android:layout_below="@id/budget_value_text"
+        android:layout_marginTop="16dp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/food_recycler_view"
