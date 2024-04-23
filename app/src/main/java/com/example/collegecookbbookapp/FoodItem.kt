@@ -88,6 +88,7 @@ data class FoodItem(
             "olive oil" to 5.00,        // in dollars per bottle
             "vinegar" to 2.00,          // in dollars per bottle
             "spaghetti sauce" to 3.00,  // in dollars per jar
+            "spaghetti" to 2.00         //
             "cereal" to 4.00,           // in dollars per box
             "muesli" to 5.00,           // in dollars per bag
             "oatmeal" to 3.50,          // in dollars per container
