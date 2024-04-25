@@ -55,8 +55,9 @@ data class FoodItem(
 
         // Map containing ingredient prices
         private val ingredientPrices = mapOf(
-            "flour" to 2.50,          // in dollars
-            "sugar" to 3.00,          // in dollars
+            "all-purpose flour" to 2.50,          // in dollars
+            "granualted sugar" to 3.00,          // in dollars
+            "brown sugar" to 3.00,
             "large eggs" to 5.60,     // a dozen
             "eggs" to 4.96,           // a dozen
             "milk" to 3.15,           // in dollars
@@ -69,18 +70,19 @@ data class FoodItem(
             "beef steak" to 8.00,      // in dollars per pound
             "ramen noodles" to 0.50,   // each
             "rice" to 1.00,            // in dollars per pound
-            "pasta" to 1.00,           // in dollars per pound
+            "rice cake" to 4.00,
+            "pasta noodles" to 1.00,           // in dollars per pound
             "bread" to 3.00,           // in dollars per loaf
             "cheese" to 3.50,          // in dollars per pound
             "yogurt" to 2.00,          // in dollars per container
             "potatoes" to 0.50,        // in dollars per pound
             "bananas" to 0.30,         // per pound
+            "baking powder" to 2.00,
             "apples" to 1.00,          // per pound
             "peanut butter" to 3.50,    // in dollars per jar
             "jelly" to 2.50,           // in dollars per jar
             "canned tuna" to 1.50,      // in dollars per can
             "instant noodles" to 0.75,  // per pack
-            "onions" to 0.50,           // in dollars per pound
             "carrots" to 0.60,          // in dollars per pound
             "tomatoes" to 1.00,         // in dollars per pound
             "lettuce" to 1.50,          // per head
@@ -88,10 +90,12 @@ data class FoodItem(
             "olive oil" to 5.00,        // in dollars per bottle
             "vinegar" to 2.00,          // in dollars per bottle
             "spaghetti sauce" to 3.00,  // in dollars per jar
-            "spaghetti" to 2.00         //
+            "spaghetti" to 1.50,         //
             "cereal" to 4.00,           // in dollars per box
             "muesli" to 5.00,           // in dollars per bag
             "oatmeal" to 3.50,          // in dollars per container
+            "oats" to 3.50,
+            "rolled oats" to 3.50,
             "cookies" to 2.50,          // in dollars per pack
             "chips" to 2.00,            // in dollars per bag
             "soda" to 1.00,             // per can
@@ -108,6 +112,9 @@ data class FoodItem(
             "trail mix" to 3.50,        // in dollars per bag
             "chocolate milk" to 2.00,   // in dollars per bottle
             "granola bars" to 3.00,     // in dollars per box
+            "granola" to 3.00,
+            "mixed fresh berries" to 5.00,
+            "mixed vegetables" to 5.00,
             "salad dressing" to 2.50,   // in dollars per bottle
             "mayonnaise" to 3.00,       // in dollars per jar
             "ketchup" to 2.00,          // in dollars per bottle
@@ -130,6 +137,7 @@ data class FoodItem(
             "frozen berries" to 4.50,    // in dollars per bag
             "frozen fruit" to 3.50,      // in dollars per bag
             "frozen yogurt" to 5.00,     // in dollars per container
+            "greek yogurt" to 5.00,
             "chicken wings" to 5.00,     // in dollars per pound
             "hot dogs" to 2.50,          // per pack
             "sausages" to 4.00,          // per pack
@@ -141,6 +149,7 @@ data class FoodItem(
             "soy milk" to 2.50,          // in dollars per container
             "almond milk" to 3.00,       // in dollars per container
             "coconut milk" to 2.50,      // in dollars per can
+            "cocoa powder" to 3.00,
             "hummus" to 3.50,            // in dollars per container
             "chips and salsa" to 4.50,   // per set
             "quesadillas" to 3.50,       // each
@@ -225,21 +234,25 @@ data class FoodItem(
             "butter" to 4.00,                     // in dollars per pack
             "eggs" to 0.20,                       // each
             "bread" to 2.00,                      // in dollars per loaf
-            "tortillas" to 1.50,                  // per pack
+            "whole grain bread" to 3.00,
+            "flour tortillas" to 1.50,                  // per pack
             "bagels" to 3.00,                     // per pack
             "English muffins" to 2.50,            // per pack
             "croissants" to 1.50,                 // each
+            "croutons" to 2.00,
             "donuts" to 1.00,                     // each
             "pita bread" to 2.00,                 // per pack
             "rolls" to 1.50,                      // per pack
             "crackers" to 2.00,                   // per pack
             "pretzels" to 1.50,                   // per pack
+            "canned refried beans" to 1.50,
             "cheese" to 3.50,                     // in dollars per pound
             "ham" to 7.00,                        // in dollars per pound
             "turkey" to 8.00,                     // in dollars per pound
             "bacon" to 5.00,                      // in dollars per pack
             "salami" to 6.00,                     // in dollars per pack
             "chicken breast" to 6.00,             // in dollars per pound
+            "chicken both" to 3.00,
             "pepperoni" to 5.00,                  // in dollars per pack
             "sausage" to 4.00,                    // in dollars per pack
             "anchovies" to 3.50,                  // in dollars per pack
@@ -247,7 +260,7 @@ data class FoodItem(
             "bell peppers" to 1.00,               // each
             "onions" to 0.50,                     // in dollars per pound
             "tomatoes" to 1.00,                   // in dollars per pound
-            "lettuce" to 1.50,                    // per head
+            "lettuce" to 4.50,                    // per head
             "olives" to 2.50,                     // in dollars per pack
             "pickles" to 2.00,                    // in dollars per jar
             "jalapenos" to 1.00,                  // in dollars per jar
@@ -269,12 +282,12 @@ data class FoodItem(
             "bbq sauce" to 3.00,                   // in dollars per bottle
             "pizza sauce" to 3.00,                 // in dollars per jar
             "pasta sauce" to 2.50,                 // in dollars per jar
-            "salsa" to 2.50,                       // in dollars per jar
             "guacamole" to 4.00,                   // in dollars per container
             "cream cheese" to 2.50,                // in dollars per pack
             "peanut butter" to 3.50,               // in dollars per jar
             "jelly" to 2.50,                       // in dollars per jar
             "honey" to 4.00,                       // in dollars per jar
+            "maple syrup" to 5.00,
             "nutella" to 5.00,                     // in dollars per jar
             "chocolate chips" to 3.00,             // in dollars per bag
             "marshmallows" to 1.00,                // per bag
@@ -282,6 +295,7 @@ data class FoodItem(
             "ice cream" to 4.00,                   // in dollars per pint
             "frozen pizza" to 5.00,                // each
             "frozen vegetables" to 2.50,           // in dollars per bag
+            "vegetable oil" to 4.00,
             "frozen fruit" to 3.50,                // in dollars per bag
             "frozen berries" to 4.50,              // in dollars per bag
             "frozen chicken nuggets" to 4.00,      // in dollars per bag

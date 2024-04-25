@@ -5,12 +5,14 @@
     android:orientation="vertical"
     android:gravity="center">
 
+
     <EditText
         android:id="@+id/usernamesignupEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Username"
         android:minHeight="48dp" />
+
 
     <EditText
         android:id="@+id/emailsignupEditText"
@@ -19,6 +21,7 @@
         android:hint="Email"
         android:minHeight="48dp" />
 
+
     <EditText
         android:id="@+id/passwordsignupEditText"
         android:layout_width="match_parent"
@@ -26,6 +29,7 @@
         android:hint="Password"
         android:inputType="textPassword"
         android:minHeight="48dp" />
+
 
     <Button
         android:id="@+id/signupButton"
