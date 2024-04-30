@@ -108,9 +108,9 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
+![BBUGif2](https://github.com/CollegeCookBook/BBUCode/assets/131283081/ac999521-a2be-423f-8fe7-8a407deb7a01)
 
-<img src="[BBUGif2 (1)](https://github.com/CollegeCookBook/BBUCode/assets/131283081/2c6a42d2-a195-48d9-bb63-3c59b60f1712)
-" width=600>
+
 
 ## App Demo Video
 
