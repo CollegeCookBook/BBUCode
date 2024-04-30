@@ -74,17 +74,14 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 
 
 ### [BONUS] Interactive Prototype
-![BBUGif2 (1)](https://github.com/CollegeCookBook/BBUCode/assets/131283081/d7343ed1-9422-4b82-913c-f1c1a91a38c4)
+![BBUGif1 (1)](https://github.com/CollegeCookBook/BBUCode/blob/main/BBUGif2.gif)
 
 
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="(https://github.com/CollegeCookBook/BBUCode/blob/main/projectboard.jpg)" width=600>
 
 ## Issue cards
 
