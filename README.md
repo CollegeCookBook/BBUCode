@@ -23,7 +23,7 @@ By offering a handy platform for recipes, our college food/cookware buying app s
 - **Scope:*Offering a diverse selection of recipes and practical kitchen tips within a user-friendly interface*
 
 ## Product Spec
-User Features Required Features Recipe search by ingredients Categorized recipies (Breakfast, Lunch, Dinner, etc.)
+User Features Required Features Recipe search by ingredients Categorized recipes (Breakfast, Lunch, Dinner, etc.)
 ### 1. User Features (Required and Optional)
 
 **Required Features**
