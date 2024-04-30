@@ -84,13 +84,15 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+ <img src="[project board](https://github.com/CollegeCookBook/BBUCode/assets/131283081/cd17e12e-1eb7-422d-a7ee-94773c88236a)
+" width=600>
+
 
 ## Issues worked on this sprint
+![issues 2](https://github.com/CollegeCookBook/BBUCode/assets/131283081/8130237a-166c-45c6-8473-07fe00e55249)
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+[BBUGif1 (1)](https://github.com/CollegeCookBook/BBUCode/assets/131283081/feccd6d6-488e-402a-9bc3-92e7de4623ef)
+
 
 <br>
 
@@ -103,10 +105,11 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 
 - List the completed user stories from this unit
 - List any pending user stories / any user stories you decided to cut
-from the original requirementsx
+from the original requirements
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR__IMAGE_URL" width=600>
+<img src="[BBUGif2 (1)](https://github.com/CollegeCookBook/BBUCode/assets/131283081/2c6a42d2-a195-48d9-bb63-3c59b60f1712)
+" width=600>
 
 ## App Demo Video
 
