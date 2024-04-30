@@ -53,11 +53,14 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 
 **Tab Navigation** (Tab to Screen)
 ![first tab](https://github.com/CollegeCookBook/BBUCode/assets/131283081/b54f5a18-7972-44f1-85ea-981f8e05eca3)
-
+This Is where the user can decide if they would want to sign-up or sign in depending if they ave an account or not.
+If they do have an account then they will be taken straight to the home screen.
+If they don't have an account they can register and create an account.
 
 
 **Flow Navigation** (Screen to Screen)
 ![second tab](https://github.com/CollegeCookBook/BBUCode/assets/131283081/e3ee0d84-51fa-454b-837c-bcdc4668ad08)
+
 
 
 
