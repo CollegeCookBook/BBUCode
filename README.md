@@ -68,20 +68,19 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 
 ## Wireframes
 
-<img src="![Wireframe_BBU_Updated](https://github.com/CollegeCookBook/BBUCode/assets/131283081/e5913b31-2b92-467a-9fef-8977d4998fdb)
-" width=600>
+![screen 2](https://github.com/CollegeCookBook/BBUCode/assets/131037551/1cf3b7c6-2f06-439d-ba4b-077a1a2f5d2f)
 
 
 
 ### [BONUS] Interactive Prototype
-![BBUGif1 (1)](https://github.com/CollegeCookBook/BBUCode/blob/main/BBUGif2.gif)
+![BBUGif2 (2)](https://github.com/CollegeCookBook/BBUCode/blob/main/BBUGif2.gif)
 
 
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-<img src="(https://github.com/CollegeCookBook/BBUCode/blob/main/projectboard.jpg)" width=600>
+[projectboard](https://github.com/CollegeCookBook/BBUCode/blob/main/projectboard.jpg)
 
 ## Issue cards
 
@@ -98,8 +97,7 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 # Milestone 3 - Build Sprint 2 (Unit 9)
 
 ## GitHub Project board
-
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![projectboard](https://github.com/CollegeCookBook/BBUCode/blob/main/projectboard.jpg)
 
 ## Completed user stories
 
@@ -108,7 +106,7 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 from the original requirementsx
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="YOUR__IMAGE_URL" width=600>
 
 ## App Demo Video
 
