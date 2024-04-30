@@ -52,19 +52,14 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
+![first tab](https://github.com/CollegeCookBook/BBUCode/assets/131283081/b54f5a18-7972-44f1-85ea-981f8e05eca3)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+
 
 **Flow Navigation** (Screen to Screen)
+![second tab](https://github.com/CollegeCookBook/BBUCode/assets/131283081/e3ee0d84-51fa-454b-837c-bcdc4668ad08)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+
 
 ## Wireframes
 
