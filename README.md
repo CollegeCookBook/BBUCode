@@ -73,7 +73,8 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 
 
 ### [BONUS] Interactive Prototype
-![BBUGif2 (2)](https://github.com/CollegeCookBook/BBUCode/blob/main/BBUGif2.gif)
+![BBUGif1 (1)](https://github.com/CollegeCookBook/BBUCode/assets/131283081/cb3b1398-229f-4478-a583-c0882bdf669f)
+
 
 
 
@@ -107,7 +108,7 @@ User Features Required Features Recipe search by ingredients Categorized recipie
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
-[Add video/gif of your current application that shows build progress]
+
 <img src="[BBUGif2 (1)](https://github.com/CollegeCookBook/BBUCode/assets/131283081/2c6a42d2-a195-48d9-bb63-3c59b60f1712)
 " width=600>
 
