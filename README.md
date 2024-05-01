@@ -100,11 +100,7 @@ If they don't have an account they can register and create an account.
 ## GitHub Project board
 ![projectboard](https://github.com/CollegeCookBook/BBUCode/blob/main/projectboard.jpg)
 
-## Completed user stories
-
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
+Final GIF
 
 ![BBUGif2](https://github.com/CollegeCookBook/BBUCode/assets/131283081/ac999521-a2be-423f-8fe7-8a407deb7a01)
 
