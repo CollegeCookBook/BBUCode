@@ -34,7 +34,7 @@ User Features Required Features Recipe search by ingredients Categorized recipes
 
 **Optional Features**
 
-1. Detailed instructions, ingredients,cookware Shopping List
+1. Detailed instructions, ingredients, cookware Shopping List
 2. View and manage ingredients needed for selected recipes User Profile
 3. Personalized settings and saved recipes Navigation Home Screen Recipes List Shopping List User Profile Flow Navigation (Screen to Screen)
 
